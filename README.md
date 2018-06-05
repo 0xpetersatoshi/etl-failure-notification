@@ -1,4 +1,8 @@
-# How to build a Go deployment package for AWS Lambda
+# Push SNS notification to Slack
+
+This script will push a SNS notification to slack when a new message is pushed to the SNS topic it is subscribed to.
+
+## How to build a Go deployment package for AWS Lambda
 
 Run the following commands:
 
